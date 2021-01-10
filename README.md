@@ -1,0 +1,1 @@
+On click of Ckeckbox, the password will get shown.
