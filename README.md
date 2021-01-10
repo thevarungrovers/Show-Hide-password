@@ -1,1 +1,1 @@
-On click of Ckeckbox, the password will get shown.
+On click of Checkbox, the password will get shown.
